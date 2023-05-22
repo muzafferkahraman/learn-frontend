@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 300px 300px;
+}
+.column {
+  padding: 16px;
+  height: 250px;
+}
